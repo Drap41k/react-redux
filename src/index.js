@@ -8,7 +8,7 @@ import VideoDetail from './components/video_detail';
 import YTSearch from 'youtube-api-search';
 import _ from 'lodash';
 
-const API_KEY = 'AIzaSyDrnxXGJn3y2MZGbWqXN1HKiIaDhbJSLRs';
+const API_KEY = 'Your youtube api key here';
 
 class App extends Component {
   constructor(props) {
